@@ -6,7 +6,7 @@ See [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) for more de
 ## Installation
 
 Place the [*.colorscheme files](./Konsole) under `~/.local/share/konsole`, then go to
-`Settings >> Manage Profiles >> Edit profile >> Appearance`, and select corresponding
+`Settings >> Manage Profiles >> Edit profile >> Appearance`, and select the corresponding
 scheme.
 
 The color schemes are converted
